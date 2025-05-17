@@ -4,6 +4,8 @@ using techMADT2.Models;
 
 namespace techMADT2.Controllers
 {
+    //mamamalamadasldmlkfsa
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
